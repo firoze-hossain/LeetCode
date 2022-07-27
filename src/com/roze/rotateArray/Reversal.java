@@ -3,7 +3,7 @@ package com.roze.rotateArray;
 import java.util.Arrays;
 
 /*Problem: Rotate an array of n elements to the right by k steps. For example, with n
-= 7 and k = 3, the array [1,2,3,4,5,6,7] is rotated to [5,6,7,1,2,3,4]. How many different
+= 6 and k = 2, the array [1,2,3,4,5,6] is rotated to [5,6,1,2,3,4]. How many different
 ways do you know to solve this problem?*/
 public class Reversal {
     /*1.Divide the array two parts: 1,2,3,4 and 5, 6
