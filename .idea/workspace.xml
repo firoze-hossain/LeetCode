@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e8fea4c5-73cf-4361-8be9-a4b637ff9263" name="Changes" comment="Rotate Array in Java">
-      <change afterPath="$PROJECT_DIR$/src/com/roze/rotateArray/Solution1.java" afterDir="false" />
+    <list default="true" id="e8fea4c5-73cf-4361-8be9-a4b637ff9263" name="Changes" comment="Rotate Array in Java solution1">
+      <change afterPath="$PROJECT_DIR$/src/com/roze/rotateArray/Solution2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/roze/rotateArray/RotateArray.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +37,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Solution1">
+  <component name="RunManager" selected="Application.Solution2">
     <configuration name="RotateArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.roze.rotateArray.RotateArray" />
       <module name="CodingInJava" />
@@ -65,8 +64,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.roze.rotateArray.Solution2" />
+      <module name="CodingInJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.roze.rotateArray.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution2" />
         <item itemvalue="Application.Solution1" />
         <item itemvalue="Application.RotateArray" />
       </list>
@@ -102,7 +115,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658717876628</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Rotate Array in Java solution1">
+      <created>1658904716052</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1658904716052</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -120,6 +140,7 @@
     <MESSAGE value="first commit" />
     <MESSAGE value="first program" />
     <MESSAGE value="Rotate Array in Java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Rotate Array in Java" />
+    <MESSAGE value="Rotate Array in Java solution1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Rotate Array in Java solution1" />
   </component>
 </project>
