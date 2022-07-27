@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e8fea4c5-73cf-4361-8be9-a4b637ff9263" name="Changes" comment="Rotate Array in Java using Bubble sort solution2" />
+    <list default="true" id="e8fea4c5-73cf-4361-8be9-a4b637ff9263" name="Changes" comment="rotate array by using reversal-solution 3">
+      <change afterPath="$PROJECT_DIR$/src/com/roze/rotateArray/Reversal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,7 +37,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.BubbleSorting">
+  <component name="RunManager" selected="Application.Reversal">
     <configuration name="BubbleSorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.roze.rotateArray.BubbleSorting" />
       <module name="CodingInJava" />
@@ -61,6 +64,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Reversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.roze.rotateArray.Reversal" />
+      <module name="CodingInJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.roze.rotateArray.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="RotateArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.roze.rotateArray.RotateArray" />
       <module name="CodingInJava" />
@@ -76,6 +92,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Reversal" />
         <item itemvalue="Application.BubbleSorting" />
         <item itemvalue="Application.Intermediate" />
         <item itemvalue="Application.RotateArray" />
@@ -126,7 +143,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658905919211</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="class name changed">
+      <created>1658934050458</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1658934050458</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -146,6 +170,8 @@
     <MESSAGE value="Rotate Array in Java" />
     <MESSAGE value="Rotate Array in Java solution1" />
     <MESSAGE value="Rotate Array in Java using Bubble sort solution2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Rotate Array in Java using Bubble sort solution2" />
+    <MESSAGE value="class name changed" />
+    <MESSAGE value="rotate array by using reversal-solution 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="rotate array by using reversal-solution 3" />
   </component>
 </project>
