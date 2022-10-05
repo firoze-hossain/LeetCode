@@ -61,13 +61,13 @@
    </td>
    <td><a href="https://github.com/firoze-hossain/LeetCode/tree/master/src/com/leetcode/array/easy/plusOne">Link</a>
    </td>
-   <td>
+   <td>2022-09-25
    </td>
    <td>
    </td>
    <td>Done
    </td>
-   <td>
+   <td>2022-09-22
    </td>
   </tr>
   <tr>
@@ -81,13 +81,13 @@
    </td>
    <td><a href="https://github.com/firoze-hossain/LeetCode/tree/master/src/com/leetcode/array/easy/moveZeroes">Link</a>
    </td>
-   <td>
+   <td>2022-10-03
    </td>
    <td>In-Place Algorithm
    </td>
    <td>Done
    </td>
-   <td>
+   <td>2022-10-02
    </td>
   </tr>
   <tr>
@@ -107,7 +107,7 @@
    </td>
    <td>
    </td>
-   <td>
+   <td>2022-10-02
    </td>
   </tr>
   <tr>
@@ -241,13 +241,13 @@
    </td>
    <td><a href="https://github.com/firoze-hossain/LeetCode/tree/master/src/com/leetcode/array/easy/removeDuplicatesfromSortedArray">Link</a>
    </td>
-   <td>
+   <td>2022-09-27
    </td>
    <td>
    </td>
    <td>Done
    </td>
-   <td>
+   <td>2022-09-25
    </td>
   </tr>
 </table>
