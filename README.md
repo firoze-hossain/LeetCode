@@ -1,4 +1,3 @@
-# LeetCode
 <!-- Output copied to clipboard! -->
 
 <!-- Yay, no errors, warnings, or alerts! -->
@@ -18,8 +17,6 @@
    </td>
    <td colspan="4" >Firoze
    </td>
-   <td colspan="4" >Nusrat
-   </td>
    <td rowspan="2" >Assign Date
    </td>
   </tr>
@@ -28,15 +25,7 @@
    </td>
    <td>Date
    </td>
-   <td><a href="https://docs.google.com/document/d/1YET-ucWSgf-R_RuLc60-WkQE32YjylkVBgpQk6xvDqQ/edit">DSA</a>
-   </td>
-   <td>Submit
-   </td>
-   <td>Git
-   </td>
-   <td>Date
-   </td>
-   <td><a href="https://docs.google.com/document/d/1nXIdRYcFzDAuN3Kd9HPN8KkaUawD_X-3S5O78UGihx8/edit">DSA</a>
+   <td><a href="https://docs.google.com/document/d/1JnnRIuTurqJ0spIJCBdYp02170WKV6COCpK3WQy0M20/edit">DSA</a>
    </td>
    <td>Submit
    </td>
@@ -58,14 +47,6 @@
    </td>
    <td>
    </td>
-   <td>Link
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>Done
-   </td>
    <td>
    </td>
   </tr>
@@ -86,14 +67,6 @@
    </td>
    <td>Done
    </td>
-   <td>Link
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
    <td>
    </td>
   </tr>
@@ -110,15 +83,7 @@
    </td>
    <td>
    </td>
-   <td>In-place algo.
-   </td>
-   <td>Done
-   </td>
-   <td><a href="https://github.com/nusrathow/LeetCode/blob/main/src/main/java/com/leetcode/array/easy/moveZeroes/moveZeroes.java">Link</a>
-   </td>
-   <td>
-   </td>
-   <td>
+   <td>In-Place Algorithm
    </td>
    <td>Done
    </td>
@@ -142,14 +107,6 @@
    </td>
    <td>
    </td>
-   <td>Link
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>Done
-   </td>
    <td>
    </td>
   </tr>
@@ -161,14 +118,6 @@
    <td>Easy
    </td>
    <td>Find Pivot Index
-   </td>
-   <td>Link
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
    </td>
    <td>Link
    </td>
@@ -198,14 +147,6 @@
    </td>
    <td>
    </td>
-   <td>Link
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
    <td>
    </td>
   </tr>
@@ -226,14 +167,6 @@
    </td>
    <td>
    </td>
-   <td><a href="https://github.com/nusrathow/LeetCode/tree/main/src/main/java/com/leetcode/array/easy/twoSum">Link</a>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>Done
-   </td>
    <td>
    </td>
   </tr>
@@ -245,14 +178,6 @@
    <td>Easy
    </td>
    <td>Fibonacci Number
-   </td>
-   <td>Link
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
    </td>
    <td>Link
    </td>
@@ -282,14 +207,6 @@
    </td>
    <td>
    </td>
-   <td>Link
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
    <td>
    </td>
   </tr>
@@ -301,14 +218,6 @@
    <td>Easy
    </td>
    <td>Pascal's Triangle
-   </td>
-   <td>Link
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
    </td>
    <td>Link
    </td>
@@ -338,18 +247,8 @@
    </td>
    <td>Done
    </td>
-   <td><a href="https://github.com/nusrathow/LeetCode/blob/main/src/main/java/com/leetcode/array/easy/removeDuplicatesfromSortedArray/removeDuplicatesfromSortedArray.java">Link</a>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>Done
-   </td>
    <td>
    </td>
   </tr>
 </table>
 
-
-**Target⇒(02-10-2022 to 09-10-2022)--The Above Problems**
