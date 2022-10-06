@@ -20,7 +20,7 @@ In-place means that the algorithm does not use extra space for manipulating the 
 **Illustration of the Process:**
 
 
-![alt_text](images/image1.png "image_tooltip")
+![alt_text](https://github.com/firoze-hossain/LeetCode/blob/master/src/com/leetcode/images/inplace-algo.png "In Place Algorithm")
 
 
 We have **O(n)** extra space required since we have two arrays to manipulate with. Besides that, creating and removing a new array is usually a slow operation.
