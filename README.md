@@ -99,9 +99,9 @@
    </td>
    <td>Running Sum of 1d Array
    </td>
-   <td>Link
+   <td><a href="https://github.com/firoze-hossain/LeetCode/tree/master/src/com/leetcode/array/easy/runningSumOf1dArray">Link</a>
    </td>
-   <td>
+   <td>2022-10-06
    </td>
    <td>Prefix sum array(<a href="https://github.com/firoze-hossain/LeetCode/blob/master/src/com/leetcode/array/easy/runningSumOf1dArray/Prefix%20Sum%20Array(DSA).md">Link</a>)
    </td>
