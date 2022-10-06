@@ -105,7 +105,7 @@
    </td>
    <td>Prefix sum array(<a href="https://github.com/firoze-hossain/LeetCode/blob/master/src/com/leetcode/array/easy/runningSumOf1dArray/Prefix%20Sum%20Array(DSA).md">Link</a>)
    </td>
-   <td>
+   <td>Done
    </td>
    <td>2022-10-02
    </td>
