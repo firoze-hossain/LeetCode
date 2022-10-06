@@ -83,7 +83,7 @@
    </td>
    <td>2022-10-03
    </td>
-   <td>In-Place Algorithm
+   <td>In-Place Algorithm(<a href="https://github.com/firoze-hossain/LeetCode/blob/master/src/com/leetcode/array/easy/moveZeroes/In%20Place%20Algorithm(DSA).md">Link</a>)
    </td>
    <td>Done
    </td>
@@ -103,7 +103,7 @@
    </td>
    <td>
    </td>
-   <td>
+   <td>Prefix sum array(<a href="https://github.com/firoze-hossain/LeetCode/blob/master/src/com/leetcode/array/easy/runningSumOf1dArray/Prefix%20Sum%20Array(DSA).md">Link</a>)
    </td>
    <td>
    </td>
