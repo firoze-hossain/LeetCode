@@ -2,7 +2,7 @@
 
 <!-- Yay, no errors, warnings, or alerts! -->
 
-**Arrays**
+** Arrays**
 
 
 <table>
@@ -15,7 +15,7 @@
    </td>
    <td rowspan="2" >Name
    </td>
-   <td colspan="4" >Firoze
+   <td colspan="4" >Firoze 
    </td>
    <td rowspan="2" >Assign Date
    </td>
@@ -39,15 +39,15 @@
    </td>
    <td>Best Time to Buy and Sell Stock
    </td>
-   <td>Link
+   <td><a href="https://github.com/firoze-hossain/LeetCode/tree/master/src/com/leetcode/array/easy/bestTimeToBuyAndSell">Link</a>
    </td>
-   <td>
+   <td>2022-10-08
    </td>
-   <td>
+   <td>Greedy Algorithms(<a href="https://github.com/firoze-hossain/LeetCode/blob/master/src/com/leetcode/array/easy/bestTimeToBuyAndSell/Greedy%20Approach(DSA).md">Link</a>)
    </td>
-   <td>
+   <td>Done
    </td>
-   <td>
+   <td>2022-10-06
    </td>
   </tr>
   <tr>
