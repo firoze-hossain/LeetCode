@@ -119,15 +119,15 @@
    </td>
    <td>Find Pivot Index
    </td>
-   <td>Link
+   <td><a href="https://github.com/firoze-hossain/LeetCode/tree/master/src/com/leetcode/array/easy/pivotIndex">Link</a>
    </td>
-   <td>
+   <td>2022-10-08
    </td>
-   <td>
+   <td>Algorithm-Self Approach(<a href="https://github.com/firoze-hossain/LeetCode/blob/master/src/com/leetcode/array/easy/pivotIndex/Algorithm-Self%20Approach(DSA).md">Link</a>)
    </td>
-   <td>
+   <td>Done
    </td>
-   <td>
+   <td>2022-10-08
    </td>
   </tr>
   <tr>
