@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e8fea4c5-73cf-4361-8be9-a4b637ff9263" name="Changes" comment="algo added">
+    <list default="true" id="e8fea4c5-73cf-4361-8be9-a4b637ff9263" name="Changes" comment="best time to buy and sell stock-121">
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/array/easy/pivotIndex/Algorithm-Self Approach(DSA).md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/array/easy/pivotIndex/Pivot Index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/array/easy/pivotIndex/PivotIndex.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/leetcode/array/easy/bestTimeToBuyAndSell/BuyAndSell.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leetcode/array/easy/bestTimeToBuyAndSell/BuyAndSell.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -157,7 +158,8 @@
       <workItem from="1664877301845" duration="700000" />
       <workItem from="1665023867514" duration="8175000" />
       <workItem from="1665162269920" duration="4510000" />
-      <workItem from="1665196310186" duration="1198000" />
+      <workItem from="1665196310186" duration="1898000" />
+      <workItem from="1665212843256" duration="1061000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1658716838896</created>
@@ -292,7 +294,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665172049421</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="best time to buy and sell stock-121">
+      <created>1665197620369</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1665197620370</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -331,46 +340,48 @@
     <MESSAGE value="md again up" />
     <MESSAGE value="121. Best Time to Buy and Sell Stock" />
     <MESSAGE value="algo added" />
-    <option name="LAST_COMMIT_MESSAGE" value="algo added" />
+    <MESSAGE value="best time to buy and sell" />
+    <MESSAGE value="best time to buy and sell stock-121" />
+    <option name="LAST_COMMIT_MESSAGE" value="best time to buy and sell stock-121" />
   </component>
   <component name="WindowStateProjectService">
     <state x="550" y="289" width="308" height="223" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1662383410245">
       <screen x="52" y="27" width="1314" height="741" />
     </state>
     <state x="550" y="289" width="308" height="223" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/52.27.1314.741@52.27.1314.741" timestamp="1662383410245" />
-    <state x="205" y="0" width="954" height="741" key="CommitChangelistDialog2" timestamp="1665172048973">
+    <state x="205" y="0" width="954" height="741" key="CommitChangelistDialog2" timestamp="1665197619156">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="205" y="0" key="CommitChangelistDialog2/0.0.1536.816@0.0.1536.816" timestamp="1665172048973" />
+    <state x="205" y="0" key="CommitChangelistDialog2/0.0.1536.816@0.0.1536.816" timestamp="1665197619156" />
     <state x="227" y="27" width="954" height="741" key="CommitChangelistDialog2/52.27.1314.741@52.27.1314.741" timestamp="1662383718438" />
-    <state width="1493" height="208" key="GridCell.Tab.0.bottom" timestamp="1665196897944">
+    <state width="1493" height="208" key="GridCell.Tab.0.bottom" timestamp="1665202228122">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1493" height="208" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1665196897944" />
+    <state width="1493" height="208" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1665202228122" />
     <state width="1268" height="139" key="GridCell.Tab.0.bottom/52.27.1314.741@52.27.1314.741" timestamp="1664122407955" />
-    <state width="1493" height="208" key="GridCell.Tab.0.center" timestamp="1665196897944">
+    <state width="1493" height="208" key="GridCell.Tab.0.center" timestamp="1665202228122">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1493" height="208" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1665196897944" />
+    <state width="1493" height="208" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1665202228122" />
     <state width="1268" height="139" key="GridCell.Tab.0.center/52.27.1314.741@52.27.1314.741" timestamp="1664122407954" />
-    <state width="1493" height="208" key="GridCell.Tab.0.left" timestamp="1665196897943">
+    <state width="1493" height="208" key="GridCell.Tab.0.left" timestamp="1665202228122">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1493" height="208" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1665196897943" />
+    <state width="1493" height="208" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1665202228122" />
     <state width="1268" height="139" key="GridCell.Tab.0.left/52.27.1314.741@52.27.1314.741" timestamp="1664122407953" />
-    <state width="1493" height="208" key="GridCell.Tab.0.right" timestamp="1665196897944">
+    <state width="1493" height="208" key="GridCell.Tab.0.right" timestamp="1665202228122">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1493" height="208" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1665196897944" />
+    <state width="1493" height="208" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1665202228122" />
     <state width="1268" height="139" key="GridCell.Tab.0.right/52.27.1314.741@52.27.1314.741" timestamp="1664122407954" />
     <state x="198" y="31" width="1022" height="737" key="SettingsEditor" timestamp="1664113659228">
       <screen x="52" y="27" width="1314" height="741" />
     </state>
     <state x="198" y="31" width="1022" height="737" key="SettingsEditor/52.27.1314.741@52.27.1314.741" timestamp="1664113659228" />
-    <state x="295" y="117" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1665172059127">
+    <state x="295" y="117" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1665197630130">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="295" y="117" key="Vcs.Push.Dialog.v2/0.0.1536.816@0.0.1536.816" timestamp="1665172059127" />
+    <state x="295" y="117" key="Vcs.Push.Dialog.v2/0.0.1536.816@0.0.1536.816" timestamp="1665197630130" />
     <state x="304" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2/52.27.1314.741@52.27.1314.741" timestamp="1662383733049" />
     <state x="462" y="140" width="611" height="536" key="find.popup" timestamp="1664775971190">
       <screen x="0" y="0" width="1536" height="816" />
