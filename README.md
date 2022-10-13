@@ -159,15 +159,15 @@
    </td>
    <td>Two Sum
    </td>
-   <td>Link
+   <td><a href="https://github.com/firoze-hossain/LeetCode/tree/master/src/com/leetcode/array/easy/twoSum">Link</a>
    </td>
-   <td>
+   <td>2022-10-13
    </td>
-   <td>
+   <td>Reducing time complexity-HashMap-(<a href="https://github.com/firoze-hossain/LeetCode/blob/master/src/com/leetcode/array/easy/twoSum/Reducing%20time%20complexity-HashMap(DSA).md">Link</a>)
    </td>
-   <td>
+   <td>Done
    </td>
-   <td>
+   <td>2022-10-12
    </td>
   </tr>
   <tr>
