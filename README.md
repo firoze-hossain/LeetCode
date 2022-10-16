@@ -139,15 +139,15 @@
    </td>
    <td>Majority Element
    </td>
-   <td>Link
+   <td><a href="https://github.com/firoze-hossain/LeetCode/tree/master/src/com/leetcode/array/easy/majorityElement">Link</a>
    </td>
-   <td>
+   <td>2022-10-16
    </td>
-   <td>
+   <td>Boyer-Moore Voting Algorithm(<a href="https://github.com/firoze-hossain/LeetCode/blob/master/src/com/leetcode/array/easy/majorityElement/Boyer-Moore%20Voting%20Algorithm.md">Link</a>)
    </td>
-   <td>
+   <td>Done
    </td>
-   <td>
+   <td>2022-10-16
    </td>
   </tr>
   <tr>
