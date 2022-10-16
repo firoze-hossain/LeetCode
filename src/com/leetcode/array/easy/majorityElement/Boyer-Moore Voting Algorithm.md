@@ -12,7 +12,7 @@ This problem is a nice illustration of how can we find a majority element in a s
 In order to understand its functioning, follow the example below:
 
 
-![alt_text](images/image1.png "image_tooltip")
+![alt_text](https://github.com/firoze-hossain/LeetCode/blob/master/src/com/leetcode/images/Boyer-Moore%20Voting%20Algorithm.png"Boyer-Moore Voting Algorithm")
 
 
 This algorithm considers the process as an election and first decides a candidate. The one who gets the most votes is the majority candidate. In the above example, we choose a candidate as 1 initially, but as we reach index 4 in the array, we observe that count = 0, which means that we have seen as many candidates as non-candidates. So, we choose the current element as a candidate and continue the process. Since we are guaranteed to have a majority element in the array, the last candidate we are left with will be the majority element.
