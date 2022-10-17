@@ -179,7 +179,7 @@
    </td>
    <td>Fibonacci Number
    </td>
-   <td>Link
+   <td><a href="https://github.com/firoze-hossain/LeetCode/tree/master/src/com/leetcode/array/easy/fibonacciNumber">Link</a>
    </td>
    <td>2022-10-17
    </td>
