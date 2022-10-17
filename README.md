@@ -181,13 +181,13 @@
    </td>
    <td>Link
    </td>
-   <td>
+   <td>2022-10-17
    </td>
-   <td>
+   <td>Fibonacci Approach(<a href="https://github.com/firoze-hossain/LeetCode/blob/master/src/com/leetcode/array/easy/fibonacciNumber/Approach%20of%20Fibonacci.md">Link</a>)
    </td>
-   <td>
+   <td>Done
    </td>
-   <td>
+   <td>2022-10-17
    </td>
   </tr>
   <tr>
