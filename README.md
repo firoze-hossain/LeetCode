@@ -199,15 +199,15 @@
    </td>
    <td>Squares of a Sorted Array
    </td>
-   <td>Link
+   <td><a href="https://github.com/firoze-hossain/LeetCode/tree/master/src/com/leetcode/array/easy/squaresSortedArray">Link</a>
    </td>
-   <td>
+   <td>2022-10-17
    </td>
-   <td>
+   <td>Squares of a Sorted Array-DSA(<a href="https://github.com/firoze-hossain/LeetCode/blob/master/src/com/leetcode/array/easy/squaresSortedArray/%20Squares%20of%20a%20Sorted%20Array(DSA).md">Link</a>)
    </td>
-   <td>
+   <td>Done
    </td>
-   <td>
+   <td>2022-10-17
    </td>
   </tr>
   <tr>
