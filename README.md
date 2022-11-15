@@ -211,26 +211,6 @@
    </td>
   </tr>
   <tr>
-   <td><a href="https://leetcode.com/problems/pascals-triangle/">118</a>
-   </td>
-   <td>Arrays
-   </td>
-   <td>Easy
-   </td>
-   <td>Pascal's Triangle
-   </td>
-   <td>Link
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
    <td><a href="https://leetcode.com/problems/remove-duplicates-from-sorted-array/">26</a>
    </td>
    <td>Arrays
@@ -248,6 +228,26 @@
    <td>Done
    </td>
    <td>2022-09-25
+   </td>
+  </tr>
+  <tr>
+   <td><a href="https://leetcode.com/problems/palindrome-number/">9</a>
+   </td>
+   <td>
+   </td>
+   <td>Easy
+   </td>
+   <td>Palindrome Number
+   </td>
+   <td><a href="https://github.com/firoze-hossain/LeetCode/tree/master/src/com/leetcode/easy/plindromeNumber">Link</a>
+   </td>
+   <td>2022-11-15
+   </td>
+   <td><a href="https://github.com/firoze-hossain/LeetCode/blob/master/src/com/leetcode/easy/plindromeNumber/Approach.md">Approach</a>
+   </td>
+   <td>Done
+   </td>
+   <td>2022-11-11
    </td>
   </tr>
 </table>
