@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e8fea4c5-73cf-4361-8be9-a4b637ff9263" name="Changes" comment="readme updated">
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/array/easy/searchInsertPosition/Approach.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/array/easy/searchInsertPosition/Search Insert Position.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/array/easy/searchInsertPosition/SearchInsertPosition.java" afterDir="false" />
+    <list default="true" id="e8fea4c5-73cf-4361-8be9-a4b637ff9263" name="Changes" comment="1480. Running Sum of 1d Array">
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/leetCode75/mergeStringsAlternately/Merge Strings Alternately .md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/leetCode75/mergeStringsAlternately/MergeStringsAlternately.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,24 +38,24 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CodeForces" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\Project Workspace\IntelliJ Idea\LeetCode\src\com\leetcode\images" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SearchInsertPosition">
-    <configuration name="FibonacciNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leetcode.array.easy.fibonacciNumber.FibonacciNumber" />
+  <component name="RunManager" selected="Application.MergeStringsAlternately">
+    <configuration name="MergeStringsAlternately" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.leetCode75.mergeStringsAlternately.MergeStringsAlternately" />
       <module name="CodingInJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.leetcode.array.easy.fibonacciNumber.*" />
+          <option name="PATTERN" value="com.leetcode.leetCode75.mergeStringsAlternately.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,6 +89,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RunningSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.leetCode75.runningSum.RunningSum" />
+      <module name="CodingInJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leetcode.leetCode75.runningSum.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SearchInsertPosition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.leetcode.array.easy.searchInsertPosition.SearchInsertPosition" />
       <module name="CodingInJava" />
@@ -103,37 +115,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SquaresOfSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leetcode.array.easy.squaresSortedArray.SquaresOfSortedArray" />
-      <module name="CodingInJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.leetcode.array.easy.squaresSortedArray.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MergeStringsAlternately" />
+        <item itemvalue="Application.RunningSum" />
         <item itemvalue="Application.SearchInsertPosition" />
         <item itemvalue="Application.RomanToInteger" />
         <item itemvalue="Application.PalindromeNumber" />
-        <item itemvalue="Application.SquaresOfSortedArray" />
-        <item itemvalue="Application.FibonacciNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -193,6 +194,11 @@
       <workItem from="1668513349534" duration="9346000" />
       <workItem from="1668834000029" duration="1427000" />
       <workItem from="1672198512152" duration="1430000" />
+      <workItem from="1681057862368" duration="2965000" />
+      <workItem from="1681229809319" duration="789000" />
+      <workItem from="1684248848690" duration="786000" />
+      <workItem from="1684294129344" duration="725000" />
+      <workItem from="1684297706527" duration="1010000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1658716838896</created>
@@ -432,7 +438,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668523219867</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="1480. Running Sum of 1d Array">
+      <created>1681062043814</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1681062043814</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -458,7 +471,6 @@
     <MESSAGE value="algorithm added" />
     <MESSAGE value="pic added" />
     <MESSAGE value="link updated" />
-    <MESSAGE value="1480. Running Sum of 1d Array" />
     <MESSAGE value="md again up" />
     <MESSAGE value="121. Best Time to Buy and Sell Stock" />
     <MESSAGE value="algo added" />
@@ -476,6 +488,7 @@
     <MESSAGE value=" Squares of a Sorted Array" />
     <MESSAGE value="palindrome number" />
     <MESSAGE value="readme updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="readme updated" />
+    <MESSAGE value="1480. Running Sum of 1d Array" />
+    <option name="LAST_COMMIT_MESSAGE" value="1480. Running Sum of 1d Array" />
   </component>
 </project>
