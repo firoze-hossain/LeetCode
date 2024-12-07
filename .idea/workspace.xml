@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e8fea4c5-73cf-4361-8be9-a4b637ff9263" name="Changes" comment="1480. Running Sum of 1d Array">
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/leetCode75/mergeStringsAlternately/Merge Strings Alternately .md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/leetCode75/mergeStringsAlternately/MergeStringsAlternately.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/leetcodebeginners/addtwointegers/Add Two Intergers.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/leetcodebeginners/addtwointegers/AddTwoIntegers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,13 +49,13 @@
       <recent name="F:\Project Workspace\IntelliJ Idea\LeetCode\src\com\leetcode\images" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MergeStringsAlternately">
-    <configuration name="MergeStringsAlternately" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leetcode.leetCode75.mergeStringsAlternately.MergeStringsAlternately" />
+  <component name="RunManager" selected="Application.AddTwoIntegers">
+    <configuration name="AddTwoIntegers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.leetcodebeginners.addtwointegers.AddTwoIntegers" />
       <module name="CodingInJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.leetcode.leetCode75.mergeStringsAlternately.*" />
+          <option name="PATTERN" value="com.leetcode.leetcodebeginners.addtwointegers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -63,12 +63,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PalindromeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leetcode.easy.plindromeNumber.PalindromeNumber" />
+    <configuration name="MergeStringsAlternately" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.leetCode75.mergeStringsAlternately.MergeStringsAlternately" />
       <module name="CodingInJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.leetcode.easy.plindromeNumber.*" />
+          <option name="PATTERN" value="com.leetcode.leetCode75.mergeStringsAlternately.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,26 +115,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AddTwoIntegers" />
         <item itemvalue="Application.MergeStringsAlternately" />
         <item itemvalue="Application.RunningSum" />
         <item itemvalue="Application.SearchInsertPosition" />
         <item itemvalue="Application.RomanToInteger" />
-        <item itemvalue="Application.PalindromeNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -199,6 +197,7 @@
       <workItem from="1684248848690" duration="786000" />
       <workItem from="1684294129344" duration="725000" />
       <workItem from="1684297706527" duration="1010000" />
+      <workItem from="1733588275016" duration="670000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1658716838896</created>
