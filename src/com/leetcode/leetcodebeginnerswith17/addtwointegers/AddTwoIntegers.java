@@ -1,4 +1,4 @@
-package com.leetcode.leetcodebeginners.addtwointegers;
+package com.leetcode.leetcodebeginnerswith17.addtwointegers;
 
 import java.util.Scanner;
 

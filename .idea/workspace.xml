@@ -1,8 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="e8fea4c5-73cf-4361-8be9-a4b637ff9263" name="Changes" comment="1480. Running Sum of 1d Array">
+=======
+    <list default="true" id="e8fea4c5-73cf-4361-8be9-a4b637ff9263" name="Changes" comment="Richest Customer Wealth">
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/leetcodebeginnerswith17/fizzBuzz/ Fizz Buzz .md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/leetcodebeginnerswith17/fizzBuzz/FizzBuzz.java" afterDir="false" />
+>>>>>>> ce0716569db0c690b3699bd764f3192497d9148e
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/leetcode/leetcodebeginners/addtwointegers/Add Two Intergers.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leetcode/leetcodebeginnerswith17/addtwointegers/Add Two Intergers.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/leetcode/leetcodebeginners/addtwointegers/AddTwoIntegers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leetcode/leetcodebeginnerswith17/addtwointegers/AddTwoIntegers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/leetcode/leetcodebeginners/richestCustomerWealth/Richest Customer Wealth .md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leetcode/leetcodebeginnerswith17/richestCustomerWealth/Richest Customer Wealth .md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/leetcode/leetcodebeginners/richestCustomerWealth/RichestCustomerWealth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leetcode/leetcodebeginnerswith17/richestCustomerWealth/RichestCustomerWealth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/leetcode/leetcodebeginners/runningSumof1dArray/Running Sum of 1d Array.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leetcode/leetcodebeginnerswith17/runningSumof1dArray/Running Sum of 1d Array.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/leetcode/leetcodebeginners/runningSumof1dArray/RunningSumof1dArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leetcode/leetcodebeginnerswith17/runningSumof1dArray/RunningSumof1dArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/leetcode/leetcodebeginners/sumOfChildren/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leetcode/leetcodebeginnerswith17/sumOfChildren/TreeNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/leetcode/leetcodebeginners/sumOfChildren/sum of children.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leetcode/leetcodebeginnerswith17/sumOfChildren/sum of children.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,13 +61,13 @@
       <recent name="F:\Project Workspace\IntelliJ Idea\LeetCode\src\com\leetcode\images" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AddTwoIntegers">
+  <component name="RunManager" selected="Application.RichestCustomerWealth">
     <configuration name="AddTwoIntegers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leetcode.leetcodebeginners.addtwointegers.AddTwoIntegers" />
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.leetcodebeginnerswith17.addtwointegers.AddTwoIntegers" />
       <module name="CodingInJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.leetcode.leetcodebeginners.addtwointegers.*" />
+          <option name="PATTERN" value="com.leetcode.leetcodebeginnerswith17.addtwointegers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RomanToInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leetcode.easy.romanToInteger.RomanToInteger" />
+    <configuration name="PalindromeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.easy.plindromeNumber.PalindromeNumber" />
       <module name="CodingInJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.leetcode.easy.romanToInteger.*" />
+          <option name="PATTERN" value="com.leetcode.easy.plindromeNumber.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RunningSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leetcode.leetCode75.runningSum.RunningSum" />
+    <configuration name="RichestCustomerWealth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.leetcodebeginnerswith17.richestCustomerWealth.RichestCustomerWealth" />
       <module name="CodingInJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.leetcode.leetCode75.runningSum.*" />
+          <option name="PATTERN" value="com.leetcode.leetcodebeginnerswith17.richestCustomerWealth.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SearchInsertPosition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leetcode.array.easy.searchInsertPosition.SearchInsertPosition" />
+    <configuration name="RunningSumof1dArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.leetcodebeginnerswith17.runningSumof1dArray.RunningSumof1dArray" />
       <module name="CodingInJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.leetcode.array.easy.searchInsertPosition.*" />
+          <option name="PATTERN" value="com.leetcode.leetcodebeginnerswith17.runningSumof1dArray.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RichestCustomerWealth" />
+        <item itemvalue="Application.RunningSumof1dArray" />
+        <item itemvalue="Application.PalindromeNumber" />
         <item itemvalue="Application.AddTwoIntegers" />
         <item itemvalue="Application.MergeStringsAlternately" />
-        <item itemvalue="Application.RunningSum" />
-        <item itemvalue="Application.SearchInsertPosition" />
-        <item itemvalue="Application.RomanToInteger" />
       </list>
     </recent_temporary>
   </component>
@@ -195,9 +209,19 @@
       <workItem from="1684248848690" duration="786000" />
       <workItem from="1684294129344" duration="725000" />
       <workItem from="1684297706527" duration="1010000" />
+<<<<<<< HEAD
       <workItem from="1733588275016" duration="775000" />
       <workItem from="1733755521689" duration="2000" />
       <workItem from="1734666371595" duration="887000" />
+=======
+      <workItem from="1733588275016" duration="670000" />
+      <workItem from="1733759484021" duration="1184000" />
+      <workItem from="1733907138775" duration="599000" />
+      <workItem from="1734517152247" duration="224000" />
+      <workItem from="1734664659513" duration="1361000" />
+      <workItem from="1734682893176" duration="2765000" />
+      <workItem from="1734697840057" duration="1536000" />
+>>>>>>> ce0716569db0c690b3699bd764f3192497d9148e
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1658716838896</created>
@@ -444,6 +468,7 @@
       <option name="project" value="LOCAL" />
       <updated>1681062043814</updated>
     </task>
+<<<<<<< HEAD
     <task id="LOCAL-00036" summary="1480. Running Sum of 1d Array">
       <created>1733588959480</created>
       <option name="number" value="00036" />
@@ -452,6 +477,30 @@
       <updated>1733588959480</updated>
     </task>
     <option name="localTasksCounter" value="37" />
+=======
+    <task id="LOCAL-00036" summary="sum of children">
+      <created>1733761664514</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1733761664514</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Running Sum of 1d Array">
+      <created>1734665467361</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1734665467361</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Richest Customer Wealth">
+      <created>1734685201798</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1734685201798</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
+>>>>>>> ce0716569db0c690b3699bd764f3192497d9148e
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -470,9 +519,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="rotate array by using reversal-solution 3" />
-    <MESSAGE value="LeetCode configuration done" />
-    <MESSAGE value="283. Move Zeroes" />
     <MESSAGE value="updated" />
     <MESSAGE value="algorithm added" />
     <MESSAGE value="pic added" />
@@ -495,6 +541,9 @@
     <MESSAGE value="palindrome number" />
     <MESSAGE value="readme updated" />
     <MESSAGE value="1480. Running Sum of 1d Array" />
-    <option name="LAST_COMMIT_MESSAGE" value="1480. Running Sum of 1d Array" />
+    <MESSAGE value="sum of children" />
+    <MESSAGE value="Running Sum of 1d Array" />
+    <MESSAGE value="Richest Customer Wealth" />
+    <option name="LAST_COMMIT_MESSAGE" value="Richest Customer Wealth" />
   </component>
 </project>
