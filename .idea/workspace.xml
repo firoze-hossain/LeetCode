@@ -1,10 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e8fea4c5-73cf-4361-8be9-a4b637ff9263" name="Changes" comment="Running Sum of 1d Array">
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/leetcodebeginners/richestCustomerWealth/Richest Customer Wealth .md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/leetcodebeginners/richestCustomerWealth/RichestCustomerWealth.java" afterDir="false" />
+    <list default="true" id="e8fea4c5-73cf-4361-8be9-a4b637ff9263" name="Changes" comment="Richest Customer Wealth">
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/leetcodebeginnerswith17/fizzBuzz/ Fizz Buzz .md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/leetcodebeginnerswith17/fizzBuzz/FizzBuzz.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/leetcode/leetcodebeginners/addtwointegers/Add Two Intergers.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leetcode/leetcodebeginnerswith17/addtwointegers/Add Two Intergers.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/leetcode/leetcodebeginners/addtwointegers/AddTwoIntegers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leetcode/leetcodebeginnerswith17/addtwointegers/AddTwoIntegers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/leetcode/leetcodebeginners/richestCustomerWealth/Richest Customer Wealth .md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leetcode/leetcodebeginnerswith17/richestCustomerWealth/Richest Customer Wealth .md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/leetcode/leetcodebeginners/richestCustomerWealth/RichestCustomerWealth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leetcode/leetcodebeginnerswith17/richestCustomerWealth/RichestCustomerWealth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/leetcode/leetcodebeginners/runningSumof1dArray/Running Sum of 1d Array.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leetcode/leetcodebeginnerswith17/runningSumof1dArray/Running Sum of 1d Array.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/leetcode/leetcodebeginners/runningSumof1dArray/RunningSumof1dArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leetcode/leetcodebeginnerswith17/runningSumof1dArray/RunningSumof1dArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/leetcode/leetcodebeginners/sumOfChildren/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leetcode/leetcodebeginnerswith17/sumOfChildren/TreeNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/leetcode/leetcodebeginners/sumOfChildren/sum of children.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leetcode/leetcodebeginnerswith17/sumOfChildren/sum of children.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,11 +59,11 @@
   </component>
   <component name="RunManager" selected="Application.RichestCustomerWealth">
     <configuration name="AddTwoIntegers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leetcode.leetcodebeginners.addtwointegers.AddTwoIntegers" />
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.leetcodebeginnerswith17.addtwointegers.AddTwoIntegers" />
       <module name="CodingInJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.leetcode.leetcodebeginners.addtwointegers.*" />
+          <option name="PATTERN" value="com.leetcode.leetcodebeginnerswith17.addtwointegers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,11 +98,11 @@
       </method>
     </configuration>
     <configuration name="RichestCustomerWealth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leetcode.leetcodebeginners.richestCustomerWealth.RichestCustomerWealth" />
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.leetcodebeginnerswith17.richestCustomerWealth.RichestCustomerWealth" />
       <module name="CodingInJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.leetcode.leetcodebeginners.richestCustomerWealth.*" />
+          <option name="PATTERN" value="com.leetcode.leetcodebeginnerswith17.richestCustomerWealth.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,11 +111,11 @@
       </method>
     </configuration>
     <configuration name="RunningSumof1dArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leetcode.leetcodebeginners.runningSumof1dArray.RunningSumof1dArray" />
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.leetcodebeginnerswith17.runningSumof1dArray.RunningSumof1dArray" />
       <module name="CodingInJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.leetcode.leetcodebeginners.runningSumof1dArray.*" />
+          <option name="PATTERN" value="com.leetcode.leetcodebeginnerswith17.runningSumof1dArray.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,15 +123,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -204,7 +210,8 @@
       <workItem from="1733907138775" duration="599000" />
       <workItem from="1734517152247" duration="224000" />
       <workItem from="1734664659513" duration="1361000" />
-      <workItem from="1734682893176" duration="2203000" />
+      <workItem from="1734682893176" duration="2765000" />
+      <workItem from="1734697840057" duration="1536000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1658716838896</created>
@@ -465,7 +472,14 @@
       <option name="project" value="LOCAL" />
       <updated>1734665467361</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="Richest Customer Wealth">
+      <created>1734685201798</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1734685201798</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -484,7 +498,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="283. Move Zeroes" />
     <MESSAGE value="updated" />
     <MESSAGE value="algorithm added" />
     <MESSAGE value="pic added" />
@@ -509,6 +522,7 @@
     <MESSAGE value="1480. Running Sum of 1d Array" />
     <MESSAGE value="sum of children" />
     <MESSAGE value="Running Sum of 1d Array" />
-    <option name="LAST_COMMIT_MESSAGE" value="Running Sum of 1d Array" />
+    <MESSAGE value="Richest Customer Wealth" />
+    <option name="LAST_COMMIT_MESSAGE" value="Richest Customer Wealth" />
   </component>
 </project>

@@ -1,4 +1,4 @@
-package com.leetcode.leetcodebeginners.sumOfChildren;
+package com.leetcode.leetcodebeginnerswith17.sumOfChildren;
 
 public class TreeNode {
     int val;
