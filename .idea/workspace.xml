@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e8fea4c5-73cf-4361-8be9-a4b637ff9263" name="Changes" comment="1480. Running Sum of 1d Array">
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/leetcodebeginners/addtwointegers/Add Two Intergers.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/leetcodebeginners/addtwointegers/AddTwoIntegers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -197,7 +195,9 @@
       <workItem from="1684248848690" duration="786000" />
       <workItem from="1684294129344" duration="725000" />
       <workItem from="1684297706527" duration="1010000" />
-      <workItem from="1733588275016" duration="670000" />
+      <workItem from="1733588275016" duration="775000" />
+      <workItem from="1733755521689" duration="2000" />
+      <workItem from="1734666371595" duration="887000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1658716838896</created>
@@ -444,7 +444,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681062043814</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="1480. Running Sum of 1d Array">
+      <created>1733588959480</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1733588959480</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
