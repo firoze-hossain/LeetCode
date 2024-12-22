@@ -1,4 +1,4 @@
-package com.leetcode.leetcodebeginnerswith17.richestCustomerWealth;
+package com.leetcode.leetcodebeginners.richestCustomerWealth;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package com.leetcode.leetcodebeginnerswith17.runningSumof1dArray;
+package com.leetcode.leetcodebeginners.runningSumof1dArray;
 
 import java.util.Scanner;
 

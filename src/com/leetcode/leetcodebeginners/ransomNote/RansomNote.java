@@ -1,4 +1,4 @@
-package com.leetcode.leetcodebeginnerswith17.ransomNote;
+package com.leetcode.leetcodebeginners.ransomNote;
 
 import java.util.HashMap;
 import java.util.Map;

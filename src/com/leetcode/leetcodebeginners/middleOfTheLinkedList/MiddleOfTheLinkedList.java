@@ -1,4 +1,4 @@
-package com.leetcode.leetcodebeginnerswith17.middleOfTheLinkedList;
+package com.leetcode.leetcodebeginners.middleOfTheLinkedList;
 
 public class MiddleOfTheLinkedList {
     public ListNode middleNode(ListNode head) {

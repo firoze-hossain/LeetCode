@@ -1,4 +1,4 @@
-package com.leetcode.leetcodebeginnerswith17.fizzBuzz;
+package com.leetcode.leetcodebeginners.fizzBuzz;
 
 import java.util.ArrayList;
 import java.util.List;

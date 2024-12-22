@@ -1,4 +1,4 @@
-package com.leetcode.leetcodebeginnerswith17.numbertoZero;
+package com.leetcode.leetcodebeginners.numbertoZero;
 
 import java.util.Scanner;
 
