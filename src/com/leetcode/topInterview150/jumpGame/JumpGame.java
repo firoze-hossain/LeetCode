@@ -7,8 +7,9 @@ public class JumpGame {
             if (maxJump < i)
                 return false;
             maxJump = Math.max(maxJump, i + nums[i]);
+            if (maxJump >= nums.length - 1) return true;
         }
-        return true;
+        return false;
     }
 
     public static void main(String[] args) {
