@@ -1,3 +1,5 @@
+package com.leetcode.topInterview150.lengthOfLastWord;
+
 public class LengthOfLastWord{
  public int lengthOfLastWord(String s) {
         s.trim();
