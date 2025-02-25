@@ -1,7 +1,7 @@
 package com.leetcode.topInterview150.linkedList.copyListWithRandomPointer;
 
 import java.util.HashMap;
-
+//copy Random List
 public class CopyListWithRandomPointer {
     public static Node copyRandomList(Node head) {
         if (head == null) {
